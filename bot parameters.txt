@@ -1,0 +1,3 @@
+valery_kasymov_train
+ValKasBot
+token 5749740611:AAFjaBDQsRWoKaoXd8jCLKCh1g0JERQWkvY
